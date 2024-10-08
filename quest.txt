@@ -1,0 +1,16 @@
+Please make sure your program can be run on the command line and does NOT need an IDE to run. Please mention the command that needs to be run to invoke your program. Lastly, make sure you list the javadoc command to be used to generate javadoc
+
+Instructions
+Plan and execute a maintenance task to your last project (Project #4) adapting to be now a Stack and not a LinkedList
+
+Implement a program that reads a list of Integer numbers from the scan input and saves them into a Stack sorted from the smallest to the largest:
+Please make sure this is a maintenance task and you are not re-writing the program from scratch!
+Use Collections Framework
+Follow code guidelines and document your code accordingly;
+Deliverable
+Save your files within a single folder;
+
+Save your folder in a zip file and submit it to Canvas on or before 11:59 pm ET on Tuesday
+
+•    Add your file by selecting "Upload" or by dragging and dropping the file.
+•    Select "Submit Assignment" to turn in your assignment.
